@@ -1,0 +1,24 @@
+{
+  "name": "portfolio-service",
+  "version": "1.0.0",
+  "description": "This is my portfolio page backend service",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kalai-007/2024-Portfolio-service.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kalai-007/2024-Portfolio-service/issues"
+  },
+  "homepage": "https://github.com/Kalai-007/2024-Portfolio-service#readme"
+}
